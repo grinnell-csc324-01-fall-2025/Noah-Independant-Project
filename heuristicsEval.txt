@@ -1,0 +1,17 @@
+Clarity: Is the game objective clear?
+1(IDK what is happening) -- 5(Very Clear) = 4
+Responsivenes: Do the controls feel predictable and responsive
+1(Controls do not make sense) -- 5(very responsive) = 5
+Difficulty: Were the levels too hard or too easy?
+1(Too easy) -- 5(Too hard) = 4
+Level Progression: Does the game progress sensibly in difficulty
+1(stayed too easy) -- 5(Got too hard) = 5
+Feedback: Is it clear to the user that you have died, won, collected a collectable?
+1(unclear feedback) -- 5(clear feedback) = 4
+Visual Readability: Are the sprites and UI text readable?
+1(unreadable) -- 5(very clear and distinguishable) = 4
+Audio: Does sound help or not?
+1(sound is distracting) -- 5(sound is responsive and helps) = 4
+Length: Was the length of the game good?
+1(too short) -- 5(too long) = 1
+
